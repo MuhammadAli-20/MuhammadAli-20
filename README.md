@@ -1,15 +1,14 @@
-Muhammad Ali
+Muhammad Ali: 
 BSc Cybersecurity student with a clear goal of becoming a penetration tester.
 
-Career Interest
+Career Interest: 
 Penetration Tester
 
-Technical Skills
+Technical Skills:
 Programming Languages: Python, JavaScript, HTML, CSS
 GUI Development: Tkinter
 Machine Learning: Classification models and data analysis
 
-Projects
 This GitHub profile contains academic projects developed using:
 Python and Tkinter
 HTML, CSS, and JavaScript
@@ -17,6 +16,6 @@ Machine learning techniques
 
 These projects demonstrate practical programming skills developed through coursework and self-learning.
 
-Current Focus
+Current Focus:
 Expanding knowledge in cybersecurity
 Strengthening programming language proficiency
