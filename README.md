@@ -1,16 +1,22 @@
-## Hi there 👋
+Muhammad Ali
+BSc Cybersecurity student with a clear goal of becoming a penetration tester.
 
-<!--
-**MuhammadAli-20/MuhammadAli-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Career Interest
+Penetration Tester
 
-Here are some ideas to get you started:
+Technical Skills
+Programming Languages: Python, JavaScript, HTML, CSS
+GUI Development: Tkinter
+Machine Learning: Classification models and data analysis
 
-- 🔭 I’m currently a student at Bathspa university
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+This GitHub profile contains academic projects developed using:
+Python and Tkinter
+HTML, CSS, and JavaScript
+Machine learning techniques
+
+These projects demonstrate practical programming skills developed through coursework and self-learning.
+
+Current Focus
+Expanding knowledge in cybersecurity
+Strengthening programming language proficiency
