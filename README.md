@@ -5,7 +5,8 @@ Career Interest:
 Penetration Tester
 
 Technical Skills:
-Programming Languages: Python, JavaScript, HTML, CSS
+
+Python, JavaScript, HTML, CSS
 
 GUI Development: Tkinter
 
