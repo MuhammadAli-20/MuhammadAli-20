@@ -6,7 +6,9 @@ Penetration Tester
 
 Technical Skills:
 Programming Languages: Python, JavaScript, HTML, CSS
+
 GUI Development: Tkinter
+
 Machine Learning: Classification models and data analysis
 
 This GitHub profile contains academic projects developed using:
