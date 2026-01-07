@@ -17,5 +17,5 @@ Machine learning techniques
 These projects demonstrate practical programming skills developed through coursework and self-learning.
 
 Current Focus:
-Expanding knowledge in cybersecurity
+Expanding knowledge in cybersecurity,
 Strengthening programming language proficiency
