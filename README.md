@@ -11,7 +11,7 @@ Machine Learning: Classification models and data analysis
 
 This GitHub profile contains academic projects developed using:
 Python and Tkinter
-HTML, CSS, and JavaScript
+HTML, CSS, JavaScript, and
 Machine learning techniques
 
 These projects demonstrate practical programming skills developed through coursework and self-learning.
